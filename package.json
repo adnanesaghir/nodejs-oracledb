@@ -1,0 +1,10 @@
+{
+  "name": "nodejs-oracledb",  
+  "version": "1.0.0",
+  "description": "nodejs oracledb install tools",  
+  "dependencies": {    
+    "oracledb": "*"    
+  },  
+  "author": "adnane.saghir@thomsonreuters.com",
+  "license": "Apache"  
+}
