@@ -1,0 +1,5 @@
+[ol6_software_collections]
+name=Software Collection Library release 2.3 packages for Oracle Linux 6 (x86_64)
+baseurl=http://public-yum.oracle.com/repo/OracleLinux/OL6/SoftwareCollections/x86_64/
+gpgcheck=0
+enabled=1

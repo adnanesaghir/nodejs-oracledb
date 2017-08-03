@@ -1,0 +1,5 @@
+[bams-emea-cta]
+name=BAMS-EMEA-CTA
+baseurl=http://bams-emea-sami-api.int.thomsonreuters.com/artifactory/default.yum.local/cta/thirdparty
+enabled=1
+gpgcheck=0
